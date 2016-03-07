@@ -1,0 +1,15 @@
+pyopenssl
+ndg-httpsclient
+pyasn1
+
+git+https://github.com/awayme/pyquery.git#egg=pyquery
+cerberus
+chardet
+demjson
+
+boto3
+scrapy
+
+pdbpp
+
+nose
